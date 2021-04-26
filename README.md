@@ -8,18 +8,24 @@ three categories: Foods, Cosmetics and Medicines.
 
 ## Screenshots
 ### Welcome
-![Welcome screen](https://i.imgur.com/CPmdmUB.png)
+<img src="https://i.imgur.com/CPmdmUB.png" width = "30%" height="30%"/>
+
 ### Sign up using email or Google account
-![Sign up screen](https://i.imgur.com/UHXsIj7.png)
+<img src="https://i.imgur.com/UHXsIj7.png" width = "30%" height="30%"/>
+
 ### Overview of your products
-![Home screen](https://i.imgur.com/IPCJwwO.png)
+<img src="https://i.imgur.com/IPCJwwO.png" width = "30%" height="30%"/>
+
 ### Add a products
-![Add product dialog](https://i.imgur.com/CDl97A3.png)
+<img src="https://i.imgur.com/CDl97A3.png" width = "30%" height="30%"/>
+
 ### Barcode scanning
-![Scan barcode](https://i.imgur.com/zVVWawj.png)
+<img src="https://i.imgur.com/zVVWawj.png" width = "30%" height="30%"/>
+
 ### Notification
-![Notification](https://i.imgur.com/d7qRCoG.png)
+<img src="https://i.imgur.com/d7qRCoG.png" width = "30%" height="30%"/>
+
 ### Notification settings
-![Notification settings](https://i.imgur.com/WAVy5Uj.png)
+<img src="https://i.imgur.com/WAVy5Uj.png" width = "30%" height="30%"/>
 
   
